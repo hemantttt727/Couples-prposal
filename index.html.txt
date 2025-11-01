@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Couples Proposal</title>
+</head>
+<body style="text-align:center; font-family:sans-serif; background:#ffe6f0;">
+  <h1>💖 Surprise for My Bestfriend 💖</h1>
+  <p>Love you lots — made this just for you!</p>
+</body>
+</html>
